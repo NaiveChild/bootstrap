@@ -27,13 +27,13 @@
 	margin: 0 auto;
 }
 .item1{
-	background-color: #414a77;
+	background-color: #233442;
 }
 .item2{
-	background-color: #f5e4dc;
+	background-color: #f4e3da;
 }
 .item3{
-	background-color: #ec414d;
+	background-color: #df2b2e;
 }
 
 .reason .text{
@@ -59,6 +59,10 @@
 	width: 100%;
 	background-color: #eee;
 }
+.study .row{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
 .study .img1{
 	text-align: center;
 }
@@ -66,19 +70,20 @@
 	display: inline-block;
 	text-align: center;
 	line-height: 40px;
-	margin-top: 120px;
+	margin-top: 80px;
+}
+.manage .row{
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 .manage .img2{
 	text-align: center;
-}
-.manage .img2 img{
-	width: 90%;
 }
 .manage .manage-text{
 	display: inline-block;
 	text-align: center;
 	line-height: 40px;
-	margin-top: 80px;
+	margin-top: 40px;
 }
 .foot{
 	width: 100%;

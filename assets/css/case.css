@@ -39,12 +39,14 @@
 	text-align: center;
 	background-color: #fff;
 	margin-top: 40px;
+	padding: 15px;
 }
 .pics .pic5,.pics .pic6,.pics .pic7,.pics .pic8{
 	text-align: center;
 	background-color: #fff;
 	margin-top: 20px;
 	margin-bottom: 30px;
+	padding: 15px;
 }
 .foot{
 	width: 100%;
